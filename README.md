@@ -1,5 +1,5 @@
 
-### Homesite Quote Conversion Project
+# Homesite Quote Conversion Project
 ## Project Overview
 This repository focuses on the Homesite Quote Conversion challenge, using advanced ML techniques to predict whether customers will purchase a given insurance plan. By balancing datasets with SMOTE and employing a variety of algorithms (Decision Tree, Random Forest, SVM, MLP, and KNN), I've optimized model performance, achieving a higher prediction accuracy through rigorous hyperparameter tuning.
 
