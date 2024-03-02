@@ -7,9 +7,8 @@ This repository focuses on the Homesite Quote Conversion challenge, using advanc
 Data from [https://www.kaggle.com/competitions/homesite-quote-conversion]
 
 ## Tools
-Machine Learning Libraries: Scikit-learn, TensorFlow, Keras
+Machine Learning Libraries: Scikit-learn
 Data Analysis: Pandas, NumPy
-Visualization: Matplotlib, Seaborn
 
 ## Preparation/Data Cleaning
 Initial data preparation steps included:
