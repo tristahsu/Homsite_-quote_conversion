@@ -4,7 +4,7 @@
 This repository focuses on the Homesite Quote Conversion challenge, using advanced ML techniques to predict whether customers will purchase a given insurance plan. By balancing datasets with SMOTE and employing a variety of algorithms (Decision Tree, Random Forest, SVM, MLP, and KNN), I've optimized model performance, achieving a higher prediction accuracy through rigorous hyperparameter tuning
 
 ## Data Source
-Data from [https://www.kaggle.com/competitions/homesite-quote-conversion]
+Data from [Kaggle](https://www.kaggle.com/competitions/homesite-quote-conversion)
 
 ## Tools
 Machine Learning Libraries: Scikit-learn
